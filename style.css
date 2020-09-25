@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(34, 31, 31);
+}    
+
+h2 {
+    color: rgb(230, 145, 114);
+    text-decoration: underline;
+    text-align: center;
+    font-size: 2em;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.padrão {
+    color:rgb(233, 59, 210);
+    font-weight: 900;
+    text-align: center;
+    font-size: 1.5em;
+    font-family: serif; 
+}
+#almost {
+    text-align: center;
+    font-size: 1.3em;
+    color: rgb(28, 209, 28);
+    font-family: 'Crete Round', serif;
+}
+
+#almost2 {
+    font-family: 'Yantramanav', sans-serif;
+    text-align: center;
+    color: rgb(28, 209, 28);
+    font-size: 1.5em;
+}
+
+#firacode {
+    font-family: 'Fira Code', monospace;
+    text-align: center;
+    color: rgb(28, 209, 28);
+    font-size: 1.5em;
+}
+
+#oleo {
+    text-align: center;
+    color: rgb(28, 209, 28);
+    font-size: 1.5em;
+    font-family: 'Oleo Script', fantasy;
+}
+
+#satisfy {
+    text-align: center;
+    color: rgb(28, 209, 28);
+    font-size: 1.5em;
+    font-family: 'Satisfy', cursive;
+}
+
+
+
+
